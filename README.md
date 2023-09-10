@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
@@ -210,3 +211,8 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+=======
+# namYeJi.github.io
+
+https://namYeJi9q.github.io
+>>>>>>> Stashed changes

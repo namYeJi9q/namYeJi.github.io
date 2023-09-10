@@ -7,6 +7,7 @@ paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
 
+<<<<<<< Updated upstream
 # Gems
 plugins:
   - jekyll-gist
@@ -57,3 +58,39 @@ author:
   name: Songzi Vong
   url: https://github.com/vszhub/
   email: vszhub@gmail.com
+=======
+title: 정리하는 개발자, 남예지입니다.
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+    Write an awesome description for your new site here. You can edit this
+    line in _config.yml. It will appear in your document head meta (for
+    Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username: jekyll
+
+# Build settings
+theme: minima
+plugins:
+    - jekyll-feed
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+>>>>>>> Stashed changes
